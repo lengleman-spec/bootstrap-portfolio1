@@ -84,6 +84,24 @@ body {
   margin-top: 0.3rem;
   margin-bottom: 1rem;
 }
+.fa-code {
+  color: #e54d26;
+}
+
+.fa-bold {
+  color: #563d7c;
+}
+
+.fa-css3 {
+  color: #216eaf;
+}
+
+.fa-code,
+.fa-bold,
+.fa-css3 {
+  font-size: 4em;
+  margin: 1rem;
+}
 
 .gif {
   width: 100%;
