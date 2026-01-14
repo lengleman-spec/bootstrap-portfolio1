@@ -40,6 +40,12 @@ body {
   padding: 1rem;
 }
 
+.carousel-caption h1 {
+  font-size: 500%;
+  text-transform: uppercase;
+  text-shadow: 1px 1px 10px #000;
+}
+
 .gif {
   width: 100%;
   height: auto;
